@@ -1,0 +1,10 @@
+﻿  My_project.cpp
+C:\Users\Manoj\Desktop\New folder\New_project\New_project\My_project.cpp(143,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manoj\Desktop\New folder\New_project\New_project\My_project.cpp(152,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manoj\Desktop\New folder\New_project\New_project\My_project.cpp(161,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manoj\Desktop\New folder\New_project\New_project\My_project.cpp(162,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manoj\Desktop\New folder\New_project\New_project\My_project.cpp(195,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manoj\Desktop\New folder\New_project\New_project\My_project.cpp(218,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manoj\Desktop\New folder\New_project\New_project\My_project.cpp(228,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manoj\Desktop\New folder\New_project\New_project\My_project.cpp(240,20): warning C4018: '<': signed/unsigned mismatch
+  New_project.vcxproj -> C:\Users\Manoj\Desktop\New folder\New_project\Debug\New_project.exe
