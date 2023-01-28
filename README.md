@@ -1,7 +1,7 @@
 # Student_ranking_system
 ## This application is to get the school and class rank of A/L students of a school based on term test results.
 <ul>
-<li>In the school, there are 2 streams, the Bioscience stream, and the Math stream.</li>
+<li>In the school, there are 2 streams, the Bio science stream, and the Math stream.</li>
 <li>In the Bio stream, there are 3 classes where each class has 40 students.</li>
 <li>Bio students take Biology, Physics, and Chemistry.</li>
 <li>Maths students take Combined Maths, Physics, and Chemistry.</li>
